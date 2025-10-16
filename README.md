@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Rodrigo Zanetti
 
-🎯 Career shift into tech | 💻 Aspiring Junior Front-End Developer  
-📚 Currently learning: HTML, CSS, JavaScript, Python, Git & GitHub  
+💻 Junior Front-End Developer  
+📚 HTML, CSS, JavaScript, Python, Git & GitHub  
 🌍 Based in Brussels, Belgium  
 
 ---
