@@ -1,7 +1,5 @@
 <img align="right" alt="Coding GIF" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVwMWh1YTcyaG5ma283cTY3bHdvOXZud2RuMHp3NzVhZDlzeGtjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif">
 
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVwMWh1YTcyaG5ma283cTY3bHdvOXZud2RuMHp3NzVhZDlzeGtjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif
-
 ## 👋 Hi there, I'm Rodrigo Zanetti
 
 💻 Junior Front-End Developer  
