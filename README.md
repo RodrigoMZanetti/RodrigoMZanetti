@@ -2,9 +2,8 @@
 
 ## 👋 Hi there, I'm Rodrigo Zanetti 
 
-💻 Junior Front-End Developer  
+💻 Junior Web Developer  
 📚 HTML, CSS, JavaScript, Python, Git & GitHub  
-🌍 Based in Brussels, Belgium  
 
 ---
 
