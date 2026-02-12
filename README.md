@@ -9,9 +9,9 @@ I develop responsive, user-centered applications with clean architecture and str
 
 ### Tech Stack
 
-Frontend: HTML, CSS, JavaScript
-Backend (learning): Python
-Tools: Git, GitHub
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend (learning):** Python  
+- **Tools:** Git, GitHub
 
 ---
 
