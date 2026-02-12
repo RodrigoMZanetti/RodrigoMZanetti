@@ -2,8 +2,8 @@
 
 ## Rodrigo Zanetti 
 
-Full-Stack Developer in Training | Building Clean and Scalable Web Applications  
-I build responsive, user-centered web applications with clean structure and scalable architecture.
+Full-Stack Developer in Training | Building clean and scalable web applications.
+I develop responsive, user-centered applications with clean architecture and strong maintainability.
 
 ---
 
