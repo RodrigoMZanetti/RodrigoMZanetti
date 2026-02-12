@@ -24,7 +24,7 @@ Currently expanding my expertise toward full-stack development and scalable appl
 
 ### Goals
 
-Currently focused on mastering full-stack development and building production-ready applications for real-world use.
+Actively building production-ready applications and expanding toward scalable full-stack solutions.
 
 ---
 
