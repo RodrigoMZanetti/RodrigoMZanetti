@@ -1,31 +1,32 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVwMWh1YTcyaG5ma283cTY3bHdvOXZud2RuMHp3NzVhZDlzeGtjbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" alt="Coding GIF" height="200">
 
-## 👋 Hi there, I'm Rodrigo Zanetti 
 
-💻 Junior Web Developer  
-📚 HTML, CSS, JavaScript, Python, Git & GitHub  
+## Rodrigo Zanetti 
 
----
-
-### 🧠 Tech Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-</p>
+Full-Stack Developer in Training | Building Clean and Scalable Web Applications  
+I build responsive, user-centered web applications with clean structure and scalable architecture.
 
 ---
 
-### 🚀 Goals
-Keep growing as a developer, deepening my knowledge of modern technologies,  
-and collaborating with multidisciplinary teams to create innovative solutions.
+### Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+Backend (learning): Python
+Tools: Git, GitHub
 
 ---
 
-### 📬 Let's Connect
+### About Me
+
+I develop structured and user-centered web solutions, with strong attention to code organization, responsiveness, and maintainability.
+Currently expanding my expertise toward full-stack development and scalable application architecture.
+
+---
+
+### Goals
+
+Currently focused on mastering full-stack development and building production-ready applications for real-world use.
+
+---
+
+### Contact
 💼 [LinkedIn](https://www.linkedin.com/in/rodrigozanetti) 
