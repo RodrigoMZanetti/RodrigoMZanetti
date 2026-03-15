@@ -27,3 +27,7 @@ Currently expanding my skills toward full-stack development while building pract
 ### Goals
 
 Actively building production-ready applications and expanding toward scalable full-stack solutions.
+
+---
+
+🔗 **LinkedIn:** [linkedin.com/in/rodrigozanetti](https://linkedin.com/in/rodrigozanetti)  
