@@ -30,4 +30,4 @@ Actively building production-ready applications and expanding toward scalable fu
 
 ---
 
-🔗 **LinkedIn:** [linkedin.com/in/rodrigozanetti](https://linkedin.com/in/rodrigozanetti)  
+🔗 **LinkedIn:** [linkedin.com/in/rodrigozanetti]([https://linkedin.com/in/rodrigozanetti](https://www.linkedin.com/in/rodrigomaturanozanetti/))  
