@@ -1,33 +1,41 @@
+# Rodrigo Zanetti
 
-
-## Rodrigo Zanetti 
-
-Front-End Developer | JavaScript, HTML, CSS
+Front-End Developer | JavaScript, HTML, CSS  
 Building responsive and user-centered web applications.
-Currently expanding toward full-stack development.
+
+Currently expanding my skills toward full-stack development.
 
 ---
 
-### Tech Stack
+## Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript 
-- **Tools:** Git, GitHub
+Frontend  
+HTML, CSS, JavaScript
 
----
-
-### About Me
-
-I build responsive and user-centered web applications using HTML, CSS, and JavaScript.  
-My focus is writing clean, maintainable code and creating intuitive interfaces.
-
-Currently expanding my skills toward full-stack development while building practical projects.
+Tools  
+Git, GitHub
 
 ---
 
-### Goals
+## About Me
 
-Actively building production-ready applications and expanding toward scalable full-stack solutions.
+I develop responsive and user-centered web applications using HTML, CSS, and JavaScript.  
+My focus is writing clean, maintainable code and building intuitive interfaces.
+
+I am currently expanding my knowledge toward full-stack development while continuously building practical projects.
 
 ---
 
-🔗 **LinkedIn:** [linkedin.com/in/rodrigomaturanozanetti](https://www.linkedin.com/in/rodrigomaturanozanetti/) 
+## Current Focus
+
+- Building real-world front-end projects
+- Strengthening JavaScript fundamentals
+- Improving UI architecture and code organization
+- Expanding toward full-stack development
+
+---
+
+## Connect with Me
+
+LinkedIn  
+https://www.linkedin.com/in/rodrigomaturanozanetti
