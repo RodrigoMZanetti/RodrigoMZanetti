@@ -20,7 +20,7 @@ Currently, I am expanding my knowledge in front-end development and starting to 
     </a>
 </p>
 
-## Connect with Me
+## Connect With Me
 LinkedIn  
 https://www.linkedin.com/in/rodrigomaturanozanetti
 
