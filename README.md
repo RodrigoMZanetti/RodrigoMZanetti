@@ -70,6 +70,7 @@ https://www.linkedin.com/in/rodrigomaturanozanetti
 />
 
 <br/>
+<br/>
 
 <p align="left">
     <img height="180" src="https://streak-stats.demolab.com?user=RodrigoMZanetti&theme=tokyonight&hide_border=true" />
