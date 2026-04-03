@@ -65,7 +65,7 @@ Currently, I am expanding my knowledge in front-end development and starting to 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
+<br/>
 <br/>
 
 
@@ -77,7 +77,8 @@ Currently, I am expanding my knowledge in front-end development and starting to 
       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoMZanetti&theme=tokyonight"
     />
 </p>
-
+<br/>
+<br/>
 
 ## Connect with Me
 
