@@ -66,8 +66,6 @@ Currently, I am expanding my knowledge in front-end development and starting to 
 />
 
 <br/>
-<br/>
-
 
 ### 📊 Statistics
 <p align="left">
