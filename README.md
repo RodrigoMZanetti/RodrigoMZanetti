@@ -24,8 +24,8 @@ Currently, I am expanding my knowledge in front-end development and starting to 
 LinkedIn  
 https://www.linkedin.com/in/rodrigomaturanozanetti
 
-### 🤖 Languages and Technologies
-<br>
+### Languages and Technologies
+
 <img 
     align="left" 
     alt="HTML"
