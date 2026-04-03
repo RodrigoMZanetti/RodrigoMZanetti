@@ -25,7 +25,7 @@ LinkedIn
 https://www.linkedin.com/in/rodrigomaturanozanetti
 
 ### 🤖 Languages and Technologies
-
+<br>
 <img 
     align="left" 
     alt="HTML"
@@ -71,7 +71,6 @@ https://www.linkedin.com/in/rodrigomaturanozanetti
 
 <br/>
 
-### 📊 Statistics
 <p align="left">
     <img height="180" src="https://streak-stats.demolab.com?user=RodrigoMZanetti&theme=tokyonight&hide_border=true" />
     <img
