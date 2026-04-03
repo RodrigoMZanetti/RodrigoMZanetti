@@ -20,6 +20,10 @@ Currently, I am expanding my knowledge in front-end development and starting to 
     </a>
 </p>
 
+## Connect with Me
+LinkedIn  
+https://www.linkedin.com/in/rodrigomaturanozanetti
+
 ### 🤖 Languages and Technologies
 
 <img 
@@ -78,7 +82,4 @@ Currently, I am expanding my knowledge in front-end development and starting to 
 <br/>
 <br/>
 
-## Connect with Me
 
-LinkedIn  
-https://www.linkedin.com/in/rodrigomaturanozanetti
