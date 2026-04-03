@@ -1,39 +1,83 @@
 # Rodrigo Zanetti
 
-Front-End Developer | JavaScript, HTML, CSS  
-Building responsive and user-centered web applications.
+**`Front-End Developer`**
 
-Currently expanding my skills toward full-stack development.
+Hi, my name is Rodrigo Zanetti, I am 31 years old and I am from Brazil. I am currently transitioning my career into technology, focusing on front-end development.
 
----
+I am passionate about building responsive and user-centered web applications, and I am continuously improving my skills through hands-on projects using JavaScript, HTML, CSS, and Git.
 
-## Tech Stack
+Before moving into tech, I worked independently in the health and fitness field, managing client programs, organizing data, and optimizing processes. This experience strengthened my problem-solving mindset and discipline, which I now apply to development.
 
-Frontend  
-HTML, CSS, JavaScript
+Currently, I am expanding my knowledge in front-end development and starting to explore modern tools like React, while building real-world projects and sharing my progress on GitHub.
 
-Tools  
-Git, GitHub
+<p align="left">
+     <a href="https://github.com/RodrigoMZanetti?tab=followers">
+        <img 
+            alt="Followers"
+            title="Follow me on GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/RodrigoMZanetti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
+        />
+    </a>
+</p>
 
----
+### 🤖 Languages and Technologies
 
-## About Me
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
 
-I develop responsive and user-centered web applications using HTML, CSS, and JavaScript.  
-My focus is writing clean, maintainable code and building intuitive interfaces.
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
 
-I am currently expanding my knowledge toward full-stack development while continuously building practical projects.
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
 
----
 
-## Current Focus
+<br/>
 
-- Building real-world front-end projects
-- Strengthening JavaScript fundamentals
-- Improving UI architecture and code organization
-- Expanding toward full-stack development
 
----
+### 📊 Statistics
+<p align="left">
+    <img height="180" src="https://streak-stats.demolab.com?user=RodrigoMZanetti&theme=tokyonight&hide_border=true" />
+    <img
+    height="180"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RodrigoMZanetti&theme=tokyonight"
+    />
+</p>
+
 
 ## Connect with Me
 
