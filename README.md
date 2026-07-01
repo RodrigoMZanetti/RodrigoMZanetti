@@ -3,8 +3,7 @@ APIs and MongoDB databases. Recently completed an intensive full-stack
 bootcamp (TripleTen), with a focus on JWT authentication, REST API design, 
 and cloud deployment.
 
-Previously worked as an independent health professional for 5+ years — 
-an experience that sharpened the analytical thinking and structured 
+Previously worked as an independent health professional for 5+ years, an experience that sharpened the analytical thinking and structured 
 problem-solving I now bring to software development.
 
 EU citizen (Italian passport) · English C1 (TOEFL iBT 101) · Based in Brussels
