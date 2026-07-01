@@ -1,28 +1,51 @@
-# Rodrigo Zanetti
+I build complete web applications, from React front-ends to Node.js/Express 
+APIs and MongoDB databases. Recently completed an intensive full-stack 
+bootcamp (TripleTen), with a focus on JWT authentication, REST API design, 
+and cloud deployment.
 
-**`Front-End Developer`**
+Previously worked as an independent health professional for 5+ years — 
+an experience that sharpened the analytical thinking and structured 
+problem-solving I now bring to software development.
 
-Hi, my name is Rodrigo Zanetti, I am 31 years old and I am from Brazil. I am currently transitioning my career into technology, focusing on front-end development.
+EU citizen (Italian passport) · English C1 (TOEFL iBT 101) · Based in Brussels
 
-I am passionate about building responsive and user-centered web applications, and I am continuously improving my skills through hands-on projects using JavaScript, HTML, CSS, and Git.
+---
 
-Before moving into tech, I worked independently in the health and fitness field, managing client programs, organizing data, and optimizing processes. This experience strengthened my problem-solving mindset and discipline, which I now apply to development.
+## Featured Projects
 
-Currently, I am expanding my knowledge in front-end development and starting to explore modern tools like React, while building real-world projects and sharing my progress on GitHub.
+### 🔍 News Explorer — Full-Stack Search App
+Full-stack news search application with JWT authentication and a separate 
+frontend/backend architecture.
 
-<p align="left">
-     <a href="https://github.com/RodrigoMZanetti?tab=followers">
-        <img 
-            alt="Followers"
-            title="Follow me on GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/RodrigoMZanetti?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-</p>
+- **Stack:** React, Node.js, Express, MongoDB, JWT, Vite
+- **Live:** [newsexplorerzanetti.mooo.com](https://newsexplorerzanetti.mooo.com)
+- **Frontend:** [news-explorer-frontend](https://github.com/RodrigoMZanetti/news-explorer-frontend)
+- **Backend:** [news-explorer-backend](https://github.com/RodrigoMZanetti/news-explorer-backend)
 
-## Connect With Me
-LinkedIn  
-https://www.linkedin.com/in/rodrigomaturanozanetti
+### 🔐 Frontend Authorization Demo
+React application demonstrating complete authentication flows: registration, 
+login, protected routes, and session restoration.
+
+- **Stack:** React, JWT, Context API, React Router DOM, Vite
+- **Live:** [rodrigomzanetti.github.io/frontend-authorization-demo](https://rodrigomzanetti.github.io/frontend-authorization-demo)
+- **Repo:** [frontend-authorization-demo](https://github.com/RodrigoMZanetti/frontend-authorization-demo)
+
+---
+
+## Stack
+
+**Front-End:** JavaScript (ES6+), React, HTML5, CSS3, Context API, BEM  
+**Back-End:** Node.js, Express.js, REST APIs, MVC architecture  
+**Database:** MongoDB, Mongoose  
+**Auth:** JWT, protected routes, password hashing  
+**Tools:** Git, GitHub, Vite, ESLint, Prettier  
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/rodrigomaturanozanetti](https://linkedin.com/in/rodrigomaturanozanetti)
+- Email: rzanetti.dev@outlook.com
 
 ### Languages and Technologies
 
