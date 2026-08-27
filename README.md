@@ -1,10 +1,6 @@
-I build complete web applications, from React front-ends to Node.js/Express 
-APIs and MongoDB databases. Recently completed an intensive full-stack 
-bootcamp (TripleTen), with a focus on JWT authentication, REST API design, 
-and cloud deployment.
+I build complete web applications, from React front-ends to Node.js/Express APIs and MongoDB databases. Currently expanding into TypeScript across multiple projects. Recently completed an intensive full-stack bootcamp (TripleTen), with a focus on JWT authentication, REST API design, and cloud deployment.
 
-Previously worked as an independent health professional for 5+ years, an experience that sharpened the analytical thinking and structured 
-problem-solving I now bring to software development.
+Previously worked as an independent health professional for 5+ years, an experience that sharpened the analytical thinking and structured problem-solving I now bring to software development.
 
 EU citizen (Italian passport) · English C1 (TOEFL iBT 101) · Based in Brussels
 
@@ -21,23 +17,22 @@ frontend/backend architecture.
 - **Frontend:** [news-explorer-frontend](https://github.com/RodrigoMZanetti/news-explorer-frontend)
 - **Backend:** [news-explorer-backend](https://github.com/RodrigoMZanetti/news-explorer-backend)
 
-### 🔐 Frontend Authorization Demo
-React application demonstrating complete authentication flows: registration, 
-login, protected routes, and session restoration.
+### 🧮 NutriBase — Body Fat Calculator (React + TypeScript)
+React and TypeScript application implementing the U.S. Navy body fat percentage formula.
 
-- **Stack:** React, JWT, Context API, React Router DOM, Vite
-- **Live:** [rodrigomzanetti.github.io/frontend-authorization-demo](https://rodrigomzanetti.github.io/frontend-authorization-demo)
-- **Repo:** [frontend-authorization-demo](https://github.com/RodrigoMZanetti/frontend-authorization-demo)
+- **Stack:** React, TypeScript, Recharts, CSS Modules
+- **Live:** rodrigomzanetti.github.io/NutriBase
+- **Repo:** github.com/RodrigoMZanetti/NutriBase
 
 ---
 
 ## Stack
 
-**Front-End:** JavaScript (ES6+), React, HTML5, CSS3, Context API, BEM  
-**Back-End:** Node.js, Express.js, REST APIs, MVC architecture  
-**Database:** MongoDB, Mongoose  
-**Auth:** JWT, protected routes, password hashing  
-**Tools:** Git, GitHub, Vite, ESLint, Prettier  
+Front-End: JavaScript (ES6+), TypeScript, React, HTML5, CSS3, Context API, BEM
+Back-End: Node.js, Express.js, REST APIs, MVC architecture
+Database: MongoDB, Mongoose
+Auth: JWT, protected routes, password hashing
+Tools: Git, GitHub, Vite, ESLint, Prettier
 
 ---
 
