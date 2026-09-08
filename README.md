@@ -1,44 +1,37 @@
-I build complete web applications, from React front-ends to Node.js/Express APIs and MongoDB databases. Currently expanding into TypeScript across multiple projects. Recently completed an intensive full-stack bootcamp (TripleTen), with a focus on JWT authentication, REST API design, and cloud deployment.
+# Rodrigo Zanetti
 
-Previously worked as an independent health professional for 5+ years, an experience that sharpened the analytical thinking and structured problem-solving I now bring to software development.
+**Junior Full-Stack Developer** · TypeScript · React · Node.js  
+Brussels, Belgium · EU citizen — no work permit needed
 
-EU citizen (Italian passport) · English C1 (TOEFL iBT 101) · Based in Brussels
+I build complete web applications, from typed React front-ends to Node.js/Express APIs
+with MongoDB. Graduated from TripleTen's full-stack bootcamp, with a focus on JWT
+authentication, REST API design and cloud deployment.
 
----
+Previously an independent health professional for 5+ years, an experience that sharpened
+the analytical thinking and structured problem-solving I now bring to software.
 
-## Featured Projects
+## Tech Stack
 
-### 🔍 News Explorer — Full-Stack Search App
-Full-stack news search application with JWT authentication and a separate 
-frontend/backend architecture.
+**Frontend** — TypeScript · React · Next.js · JavaScript · HTML · CSS · Tailwind CSS · CSS Modules  
+**Backend** — Node.js · Express · MongoDB · Mongoose · REST APIs · JWT Authentication  
+**Testing & Tools** — Vitest · Git · GitHub · Vite · Figma  
+**Deployment** — Google Cloud (Compute Engine) · Vercel · GitHub Pages  
 
-- **Stack:** React, Node.js, Express, MongoDB, JWT, Vite
-- **Live:** [newsexplorerzanetti.mooo.com](https://newsexplorerzanetti.mooo.com)
-- **Frontend:** [news-explorer-frontend](https://github.com/RodrigoMZanetti/news-explorer-frontend)
-- **Backend:** [news-explorer-backend](https://github.com/RodrigoMZanetti/news-explorer-backend)
+[![My Stack](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,js,nodejs,express,mongodb,vitest,vite,git,gcp)](https://skillicons.dev)
 
-### 🧮 NutriBase — Body Fat Calculator (React + TypeScript)
-React and TypeScript application implementing the U.S. Navy body fat percentage formula.
+Currently deepening **TypeScript across the stack, Next.js App Router and automated testing**.
 
-- **Stack:** React, TypeScript, Recharts, CSS Modules
-- **Live:** rodrigomzanetti.github.io/NutriBase
-- **Repo:** github.com/RodrigoMZanetti/NutriBase
+## Contact
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigomaturanozanetti/)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:rzanetti.dev@outlook.com)
 
-## Stack
+**Languages** — Portuguese (native) · English (C1, TOEFL iBT 101)
 
-Front-End: JavaScript (ES6+), TypeScript, React, HTML5, CSS3, Context API, BEM
-Back-End: Node.js, Express.js, REST APIs, MVC architecture
-Database: MongoDB, Mongoose
-Auth: JWT, protected routes, password hashing
-Tools: Git, GitHub, Vite, ESLint, Prettier
+Open to junior front-end and full-stack roles in Belgium and remote across the EU.
 
----
+## Projects
 
-## Connect
-
-- LinkedIn: [linkedin.com/in/rodrigomaturanozanetti](https://linkedin.com/in/rodrigomaturanozanetti)
-- Email: rzanetti.dev@outlook.com
-
-
+| Project | Links | Stack | What it demonstrates |
+| --- | --- | --- | --- |
+| | | | |
