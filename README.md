@@ -28,7 +28,7 @@ Currently deepening **TypeScript across the stack, Next.js App Router and automa
 
 **Languages** — Portuguese (native) · English (C1, TOEFL iBT 101)
 
-Open to junior front-end and full-stack roles in Belgium and remote across the EU.
+Open to junior front-end and full-stack roles in Belgium and remote.
 
 ## Projects
 
