@@ -34,4 +34,10 @@ Open to junior front-end and full-stack roles in Belgium and remote across the E
 
 | Project | Links | Stack | What it demonstrates |
 | --- | --- | --- | --- |
-| | | | |
+| **News Explorer** | [Demo](https://newsexplorerzanetti.mooo.com/) · [Frontend](https://github.com/RodrigoMZanetti/news-explorer-frontend) · [API](https://github.com/RodrigoMZanetti/news-explorer-backend) | React · Node · Express · MongoDB · JWT | Full-stack app with JWT auth, bcrypt hashing, protected routes and third-party API integration — deployed on a Google Cloud VM |
+| **NutriBase** | [Demo](https://rodrigomzanetti.github.io/NutriBase/) · [Code](https://github.com/RodrigoMZanetti/NutriBase) | React · TypeScript · CSS Modules · Vitest | U.S. Navy body-fat formula with gender-specific equations, input validation and unit tests — rewritten from JavaScript to TypeScript |
+| **SaaS Landing Page** | [Demo](https://rodrigomzanetti.github.io/saas-landing-page/) · [Code](https://github.com/RodrigoMZanetti/saas-landing-page) | React · TypeScript · Tailwind · Framer Motion | Responsive marketing page with declarative animations and an animated mobile slide-out menu |
+| **Task Flow** | [Demo](https://rodrigomzanetti.github.io/task-flow/) · [Code](https://github.com/RodrigoMZanetti/task-flow) | React · TypeScript · Vite · CSS Modules | Modal-based CRUD with typed props, lifted state and controlled forms |
+| **One Shot Post** | [Demo](https://rodrigomzanetti.github.io/one-shot-post/) · [Code](https://github.com/RodrigoMZanetti/one-shot-post) | React · TypeScript · Vite | Single-use post flow — typed state, controlled inputs and conditional rendering |
+
+**In progress** — *FarmáciasAPP*: a pharmacy marketplace that compares prices and promotions across nearby pharmacies. Next.js 16 · TypeScript · Tailwind CSS. Real client project, private repository — demo link soon.
