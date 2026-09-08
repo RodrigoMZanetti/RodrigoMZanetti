@@ -13,11 +13,11 @@ the analytical thinking and structured problem-solving I now bring to software.
 ## Tech Stack
 
 **Frontend** — TypeScript · React · Next.js · JavaScript · HTML · CSS · Tailwind CSS · CSS Modules  
-**Backend** — Node.js · Express · MongoDB · Mongoose · REST APIs · JWT Authentication  
+**Backend** — Node.js · Express · MongoDB · Mongoose · REST APIs · JWT Authentication · Python   
 **Testing & Tools** — Vitest · Git · GitHub · Vite · Figma  
 **Deployment** — Google Cloud (Compute Engine) · Vercel · GitHub Pages  
 
-[![My Stack](https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,js,nodejs,express,mongodb,vitest,vite,git,gcp)](https://skillicons.dev)
+[![My Stack](https://skillicons.dev/icons?i=ts,react,nextjs,python,tailwind,js,nodejs,express,mongodb,vitest,vite,git,gcp)](https://skillicons.dev)
 
 Currently deepening **TypeScript across the stack, Next.js App Router and automated testing**.
 
