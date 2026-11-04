@@ -2,6 +2,7 @@
 
 **Junior Full-Stack Developer** · TypeScript · React · Node.js  
 Brussels, Belgium · EU citizen — no work permit needed
+🌐 Portfolio: https://rodrigo-zanetti.vercel.app
 
 I build complete web applications, from typed React front-ends to Node.js/Express APIs
 with MongoDB. Graduated from TripleTen's full-stack bootcamp, with a focus on JWT
