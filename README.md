@@ -9,9 +9,6 @@ I build complete web applications, from typed React front-ends to Node.js/Expres
 with MongoDB. Graduated from TripleTen's full-stack bootcamp, with a focus on JWT
 authentication, REST API design and cloud deployment.
 
-Previously an independent health professional for 5+ years, an experience that sharpened
-the analytical thinking and structured problem-solving I now bring to software.
-
 ## Tech Stack
 
 **Frontend** — TypeScript · React · Next.js · JavaScript · HTML · CSS · Tailwind CSS · CSS Modules  
